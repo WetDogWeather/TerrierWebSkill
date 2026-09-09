@@ -1,5 +1,5 @@
 ---
-name: terrier-radar
+name: terrier-web-app
 description: Scaffolds a Vite + React + MapLibre Wet Dog Weather Terrier weather app (MRMS CONUS reflectivity, 2 m temperature, 10 m wind UV) from scratch with no user prompts. HUD titles use the actual started source level, not tab labels. Use when the user wants Terrier, radar, temperature, wind, Boxer, MapLibre weather overlay, @wetdogweather/terrier, or a no-input Terrier web app.
 ---
 
